@@ -1,7 +1,7 @@
 # Sentiment Analysis on Movie Reviews
 Classify the sentiment of sentences from the Rotten Tomatoes dataset.
 
-### Objective of this Project
+### Objective of this project
 The objective is to explore the dataset and build several models with different complexities.
 
 ### Dataset
